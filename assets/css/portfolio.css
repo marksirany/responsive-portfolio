@@ -1,0 +1,67 @@
+body {
+    background-image: url(../images/cork-board.png)
+}
+
+div {
+    background-color: white;
+    color:black;
+    padding: 10px;
+    margin: 25px;
+  }
+
+h1 {
+    font-family: 'Yeon Sung', cursive;
+}
+
+p {
+    font-family: 'Open Sans Condensed', sans-serif;
+    font-size: 20px;
+}
+
+.Name {
+    font-family: 'Open Sans Condensed', sans-serif;
+    font-size: 35px;
+    background-color: blue;    
+    color: white;
+    height: 50px;
+    width: 50px:
+    flex: 0 0 
+}
+
+.About {
+    font-family: 'Open Sans Condensed', sans-serif;
+    font-size: 20px;
+    background-color: white;
+    height: 50px;
+    
+}
+
+.Portfolio {
+    font-family: 'Open Sans Condensed', sans-serif;
+    font-size: 20px;
+    background-color: white;
+    height: 50px;
+}
+
+.Contact {
+    font-family: 'Open Sans Condensed', sans-serif;
+    font-size: 20px;
+    background-color: white;
+    height: 50px;
+}
+
+.games {
+    height: 50px;
+    width: 300px;
+    background-color: blue;
+    color: white;
+    position: absolute; top: 435px;
+}
+
+.apps {
+    height: 50px;
+    width: 300px;
+    background-color: blue;
+    color: white;
+    position: absolute; top: 435px; left: 417px;
+}
