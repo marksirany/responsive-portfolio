@@ -65,3 +65,7 @@ p {
     color: white;
     position: absolute; top: 435px; left: 417px;
 }
+
+button {
+    position: relative;
+}
